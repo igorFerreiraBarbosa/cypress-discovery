@@ -1,0 +1,60 @@
+{
+    "signUp": {
+        "name": "Igor Ferreira",
+        "email": "igor@entregador.com",
+        "cpf": "00000014114",
+        "whatsapp": "85999999999",
+        "address": {
+            "street": "Rua Costa Barros",
+            "neighborhood": "Centro",
+            "zipCode": "60160280",
+            "addressNumber": "915",
+            "addressDetails": "Nono andar",
+            "cityAndState": "Fortaleza/CE"
+        },
+        
+        "deliveryMethod": "Moto",
+        "cnh": "cnh-digital.jpg"
+
+    },
+
+    "invalidCpf": {
+        "name": "Marcos Ferreira",
+        "email": "marcos@entregador.com",
+        "cpf": "0000001aA@!",
+        "whatsapp": "85999999999",
+        "address": {
+            "street": "Rua Costa Barros",
+            "neighborhood": "Centro",
+            "zipCode": "60160280",
+            "addressNumber": "915",
+            "addressDetails": "Nono andar",
+            "cityAndState": "Fortaleza/CE"
+        },
+        
+        "deliveryMethod": "Moto",
+        "cnh": "cnh-digital.jpg"
+
+    },
+
+    "invalidEmail": {
+        "name": "Francisco Ferreira",
+        "email": "franciscoentregador.com",
+        "cpf": "00000011144",
+        "whatsapp": "85999999999",
+        "address": {
+            "street": "Rua Costa Barros",
+            "neighborhood": "Centro",
+            "zipCode": "60160280",
+            "addressNumber": "915",
+            "addressDetails": "Nono andar",
+            "cityAndState": "Fortaleza/CE"
+        },
+        
+        "deliveryMethod": "Moto",
+        "cnh": "cnh-digital.jpg"
+
+    }
+
+
+}
